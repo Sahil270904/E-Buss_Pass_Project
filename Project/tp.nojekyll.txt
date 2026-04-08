@@ -1,0 +1,2 @@
+# Create empty .nojekyll file
+touch .nojekyll
